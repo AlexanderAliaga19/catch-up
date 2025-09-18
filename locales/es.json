@@ -1,0 +1,9 @@
+{
+  "readMore": "ver más",
+  "unavailable-news": "No hay noticias disponibles",
+  "authoring-phrase": {
+    "intro": "Hecho con",
+    "use": "utilizando",
+    "autor": "por el Equipo de desarrollo de {brand}"
+  }
+}
